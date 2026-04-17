@@ -1,0 +1,6 @@
+/target
+Cargo.lock
+.env
+*.local
+gitpulse-*.json
+gitpulse-*.md
